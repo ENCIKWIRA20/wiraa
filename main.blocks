@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="}zE5_iiqCf~(NB5Tqfle">sprite</variable><variable id="MvJGCtox[$](y4r.8LhZ">JJS</variable></variables><block type="device_gesture_event" id="U{Eg^trsDW`Xj2`unw?0" x="171" y="-120"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="?G.~0@|x5B*RRnPoD`*,"><value name="number"><shadow type="math_number" id="$cM7C@s,Ve#0Z{)TG=en"><field name="NUM">88</field></shadow></value></block></statement></block><block type="pxt-on-start" id="JenwsTSTB1DmBf5Y1Hs6" x="0" y="0"><statement name="HANDLER"><block type="serial_writestring" id="q%q~0jrQ)[fAa@N9-3V]"><value name="text"><shadow type="text" id="[:A92(En[yubXvn65e#u"><field name="TEXT">999</field></shadow></value><next><block type="device_print_message" id="7.|qQaz?9F,~?_4b?O}C"><value name="text"><shadow type="text" id="YtM_c_7aPn}6iWKf,5/e"><field name="TEXT"> HELLO ENCIKWIRA</field></shadow></value><next><block type="device_show_leds" id="H3m~W%gH[o$5xk4n(NbO"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # # 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="1!m`^TwQ9%Wd!31f|/,x"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id=";sAz/4md,Qr`A4Ihdj@l"><field name="LEDS">`
+        # # # # # 
+        . . . . # 
+        # # # # # 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="gbquWM]O9NrF)UGjBi4T"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="4CS`lHUFc32Bi9T(/^GC" x="344" y="-5"><statement name="HANDLER"><block type="basic_show_icon" id="Uxsy/e0Ca~B6W,tSVo30"><field name="i">IconNames.Ghost</field><next><block type="device_pause" id="g+fSk$3s%u@Nd]jvmr%g"><value name="pause"><shadow type="timePicker" id="2}5!z!L%N4|@YhOCjd2t"><field name="ms">1000</field></shadow></value><next><block type="basic_show_arrow" id=".*rgoQogxI8$cmADkGAo"><value name="i"><shadow type="device_arrow" id="0N]OpQ{hnitB:n:+$Gm~"><field name="arrow">ArrowNames.South</field></shadow></value></block></next></block></next></block></statement></block></xml>
